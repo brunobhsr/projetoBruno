@@ -33,7 +33,7 @@ O projeto está em desenvolvimento e novas funcionalidades serão adicionadas fu
 - Sistema de pontuação
 
 ## 📷 Capturas de Tela
-# tela
+# tela cheia
 
 <p align="center">
   <img src="Docs/telaCheia.png" width="700">
