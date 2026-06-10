@@ -48,4 +48,20 @@ O projeto está em desenvolvimento e novas funcionalidades serão adicionadas fu
 ## 👨‍💻 Autor
 
 Bruno Rodrigues  
-Estudante de Engenharia da Computação - UFPA
+
+## 🏛️ Instituição
+
+Universidade Federal do Pará (UFPA)
+
+## 🤝 Apoio
+
+Projeto desenvolvido com apoio do Laboratório de Pesquisa Operacional (LPO/UFPA).
+
+Site do LPO: https://lpo.ufpa.br
+## Créditos
+
+Este projeto foi desenvolvido acompanhando as aulas do canal Over Games.
+
+Parte do código, sprites e demais assets utilizados foram obtidos a partir do material disponibilizado pelo autor para fins educacionais.
+
+Este repositório tem finalidade de estudo e aprendizado em desenvolvimento de jogos com Unity.
