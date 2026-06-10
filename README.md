@@ -33,8 +33,17 @@ O projeto está em desenvolvimento e novas funcionalidades serão adicionadas fu
 - Sistema de pontuação
 
 ## 📷 Capturas de Tela
+# tela
 
-Em breve.
+<p align="center">
+  <img src="Docs/telaCheia.png" width="700">
+</p>
+
+# ⚔️ Sistema de Combate
+
+<p align="center">
+  <img src="Docs/ataque.png" width="800">
+</p>
 
 ## 👨‍💻 Autor
 
