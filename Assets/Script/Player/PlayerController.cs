@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.Collections;
 using UnityEngine;
+using TMPro;
 
 public class PlayerController : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class PlayerController : MonoBehaviour
     public int addJumps;
     public bool isGrounded;
     public float jumpForce;
+    public int life;
+    public TextMeshProUGUI textLife;
 
     void Start()
     {
@@ -26,6 +29,8 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         moveX = Input.GetAxis("Horizontal");
+
+        textLife.text = life.ToString();
     }
 
     void FixedUpdate()
